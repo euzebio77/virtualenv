@@ -6,7 +6,7 @@ Windows:<br>
 pip install virtualenv
 
 # Como usar
-Para criar um ambiente virtual é bem simple é apenas necessario executar o comando abaixo:<br>
+Para criar um ambiente virtual é necessario executar o comando abaixo:<br>
 python -m venv ./venv
 
 Feito isso, sera gerado o ambiente virtual e para acessa-lo é necessario inserir o codigo abaixo: <br>
